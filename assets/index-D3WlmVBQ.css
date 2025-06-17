@@ -1,0 +1,1 @@
+*{box-sizing:border-box;background-color:#000;color:orange;font-family:Arial,sans-serif;box-shadow:0 0 0 10px cyan(0,0,0,.1)}.app-container{text-align:center;padding:40px;font-family:sans-serif}input,select,button{padding:10px;margin:10px;border-radius:8px;border:1px solid #ccc}.btn:hover{background:orange;color:#fff}.tocurr:hover{background-color:green;color:#fff}
